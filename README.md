@@ -119,9 +119,9 @@ pytest tests/ -v -s
 
 ## Test Results
 
-![Test Report Summary](screenshots/test_report_summary.jpg)
+![Test Report Summary](screenshots/test_report_summary.png)
 
-![Test Report Details](screenshots/test_report_details.jpg)
+![Test Report Details](screenshots/test_report_details.png)
 
 All tests passing with response times under 3 seconds.
 
