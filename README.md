@@ -119,9 +119,9 @@ pytest tests/ -v -s
 
 ## Test Results
 
-![Test Report Summary](screenshots/html_report_qa_api_advanced.png)
+![Test Report Summary](screenshots/test_report_summary.jpg)
 
-![Test Report Details](screenshots/html_report_qa_api_advanced2.png)
+![Test Report Details](screenshots/test_report_details.jpg)
 
 All tests passing with response times under 3 seconds.
 
@@ -216,4 +216,3 @@ Artur Dmytriyev - QA Automation Engineer
 ## Notes
 
 Built as part of a QA automation learning path to demonstrate advanced API testing skills. Focuses on professional testing practices and maintainable test architecture.
-
