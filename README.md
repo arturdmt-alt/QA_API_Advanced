@@ -2,9 +2,7 @@
 
 Professional API testing framework using Python, Pytest, and JSONPlaceholder API. Demonstrates advanced testing concepts including layered validation, schema validation, and performance testing.
 
-[![API Tests]
-
-(https://github.com/arturdmt-alt/QA_API_Advanced/actions/workflows/tests.yml/badge.svg)](https://github.com/arturdmt-alt/QA_API_Advanced/actions/workflows/tests.yml)
+[![API Tests](https://github.com/arturdmt-alt/QA_API_Advanced/actions/workflows/tests.yml/badge.svg)](https://github.com/arturdmt-alt/QA_API_Advanced/actions/workflows/tests.yml)
 
 ## Project Overview
 
