@@ -193,7 +193,6 @@ Through this project I gained experience with:
 
 - Add parametrized tests for data-driven testing
 - Implement authentication testing with different API
-- Add CI/CD integration with GitHub Actions
 - Expand to include albums and photos endpoints
 - Add rate limiting tests
 - Implement parallel test execution
@@ -212,8 +211,8 @@ Endpoints tested:
 
 Artur Dmytriyev - QA Automation Engineer
 
-- GitHub:(https://github.com/arturdmt-alt)
-- LinkedIn:(https://www.linkedin.com/in/arturdmytriyev)
+- GitHub: https://github.com/arturdmt-alt
+- LinkedIn: https://www.linkedin.com/in/arturdmytriyev
 
 ## Notes
 
